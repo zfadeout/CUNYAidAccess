@@ -1,0 +1,3173 @@
+Name: Oil, soybean lecithin
+Total Fat: 100.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 8.18 mg
+Protein: 0.0g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 763
+Predicted Calories: 886.80
+Calorie Difference (Actual - Predicted): -123.80
+95% CI: [878.36, 895.23]
+
+----------------------------------------
+
+Name: Baking chocolate, liquid, unsweetened
+Total Fat: 48.0g
+Vitamin A: 12.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.072 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 12.1g
+Carbohydrate: 36.2g
+Fiber: 18.1g
+Sugars: 0.0g
+Actual Calories: 472
+Predicted Calories: 591.11
+Calorie Difference (Actual - Predicted): -119.11
+95% CI: [582.67, 599.55]
+
+----------------------------------------
+
+Name: Chewing gum, sugarless
+Total Fat: 0.4g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 0.0g
+Carbohydrate: 94.8g
+Fiber: 2.4g
+Sugars: 0.0g
+Actual Calories: 268
+Predicted Calories: 370.67
+Calorie Difference (Actual - Predicted): -102.67
+95% CI: [362.23, 379.11]
+
+----------------------------------------
+
+Name: Cereals ready-to-eat, KRETSCHMER Toasted Wheat Bran, SUN COUNTRY
+Total Fat: 5.2g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.23 µg
+Vitamin B6: 0.68 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.56g
+Carbohydrate: 59.51g
+Fiber: 41.3g
+Sugars: 0.0g
+Actual Calories: 200
+Predicted Calories: 290.47
+Calorie Difference (Actual - Predicted): -90.47
+95% CI: [282.03, 298.91]
+
+----------------------------------------
+
+Name: Spices, ground, allspice
+Total Fat: 8.7g
+Vitamin A: 540.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.21 mg
+Vitamin C: 39.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 6.09g
+Carbohydrate: 72.12g
+Fiber: 21.6g
+Sugars: 0.0g
+Actual Calories: 263
+Predicted Calories: 352.24
+Calorie Difference (Actual - Predicted): -89.24
+95% CI: [343.80, 360.68]
+
+----------------------------------------
+
+Name: Leavening agents, low-sodium, baking powder
+Total Fat: 0.4g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 0.1g
+Carbohydrate: 46.9g
+Fiber: 2.2g
+Sugars: 0.0g
+Actual Calories: 97
+Predicted Calories: 186.00
+Calorie Difference (Actual - Predicted): -89.00
+95% CI: [177.56, 194.44]
+
+----------------------------------------
+
+Name: Spices, dill seed
+Total Fat: 15.0g
+Vitamin A: 53.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.25 mg
+Vitamin C: 21.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 15.98g
+Carbohydrate: 55.17g
+Fiber: 21.1g
+Sugars: 0.0g
+Actual Calories: 305
+Predicted Calories: 383.76
+Calorie Difference (Actual - Predicted): -78.76
+95% CI: [375.32, 392.20]
+
+----------------------------------------
+
+Name: Spices, coriander seed
+Total Fat: 18.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 21.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 12.37g
+Carbohydrate: 54.99g
+Fiber: 41.9g
+Sugars: 0.0g
+Actual Calories: 298
+Predicted Calories: 365.42
+Calorie Difference (Actual - Predicted): -67.42
+95% CI: [356.98, 373.86]
+
+----------------------------------------
+
+Name: Spices, dried, chervil
+Total Fat: 3.9g
+Vitamin A: 5850.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.93 mg
+Vitamin C: 50.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 23.2g
+Carbohydrate: 49.1g
+Fiber: 11.3g
+Sugars: 0.0g
+Actual Calories: 237
+Predicted Calories: 302.86
+Calorie Difference (Actual - Predicted): -65.86
+95% CI: [294.42, 311.30]
+
+----------------------------------------
+
+Name: Spices, dried, dill weed
+Total Fat: 4.4g
+Vitamin A: 5850.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 1.71 mg
+Vitamin C: 50.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 19.96g
+Carbohydrate: 55.82g
+Fiber: 13.6g
+Sugars: 0.0g
+Actual Calories: 253
+Predicted Calories: 314.61
+Calorie Difference (Actual - Predicted): -61.61
+95% CI: [306.17, 323.05]
+
+----------------------------------------
+
+Name: Soy protein isolate
+Total Fat: 3.4g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.1 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 88.32g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 335
+Predicted Calories: 395.26
+Calorie Difference (Actual - Predicted): -60.26
+95% CI: [386.82, 403.70]
+
+----------------------------------------
+
+Name: Soy protein isolate, potassium type
+Total Fat: 0.5g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.1 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 88.32g
+Carbohydrate: 2.59g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 321
+Predicted Calories: 379.66
+Calorie Difference (Actual - Predicted): -58.66
+95% CI: [371.22, 388.10]
+
+----------------------------------------
+
+Name: Nuts, dried, pilinuts
+Total Fat: 80.0g
+Vitamin A: 41.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.115 mg
+Vitamin C: 0.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 10.8g
+Carbohydrate: 3.98g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 719
+Predicted Calories: 769.80
+Calorie Difference (Actual - Predicted): -50.80
+95% CI: [761.36, 778.24]
+
+----------------------------------------
+
+Name: Spices, anise seed
+Total Fat: 16.0g
+Vitamin A: 311.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.65 mg
+Vitamin C: 21.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.6g
+Carbohydrate: 50.02g
+Fiber: 14.6g
+Sugars: 0.0g
+Actual Calories: 337
+Predicted Calories: 387.58
+Calorie Difference (Actual - Predicted): -50.58
+95% CI: [379.14, 396.02]
+
+----------------------------------------
+
+Name: Candies, made with butter, semisweet chocolate
+Total Fat: 30.0g
+Vitamin A: 60.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.05 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.2g
+Carbohydrate: 63.4g
+Fiber: 5.9g
+Sugars: 0.0g
+Actual Calories: 477
+Predicted Calories: 522.66
+Calorie Difference (Actual - Predicted): -45.66
+95% CI: [514.22, 531.10]
+
+----------------------------------------
+
+Name: Tofu, prepared with calcium sulfate, dried-frozen (koyadofu)
+Total Fat: 30.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.286 mg
+Vitamin C: 0.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 52.43g
+Carbohydrate: 8.3g
+Fiber: 1.2g
+Sugars: 0.0g
+Actual Calories: 470
+Predicted Calories: 513.13
+Calorie Difference (Actual - Predicted): -43.13
+95% CI: [504.69, 521.57]
+
+----------------------------------------
+
+Name: Spices, bay leaf
+Total Fat: 8.4g
+Vitamin A: 6185.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 1.74 mg
+Vitamin C: 46.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.61g
+Carbohydrate: 74.97g
+Fiber: 26.3g
+Sugars: 0.0g
+Actual Calories: 313
+Predicted Calories: 355.05
+Calorie Difference (Actual - Predicted): -42.05
+95% CI: [346.61, 363.49]
+
+----------------------------------------
+
+Name: Spices, dried, tarragon
+Total Fat: 7.2g
+Vitamin A: 4200.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 2.41 mg
+Vitamin C: 50.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 22.77g
+Carbohydrate: 50.22g
+Fiber: 7.4g
+Sugars: 0.0g
+Actual Calories: 295
+Predicted Calories: 336.49
+Calorie Difference (Actual - Predicted): -41.49
+95% CI: [328.05, 344.93]
+
+----------------------------------------
+
+Name: Potatoes, unprepared, dry mix, au gratin
+Total Fat: 3.7g
+Vitamin A: 263.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.15 mg
+Vitamin C: 15.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.9g
+Carbohydrate: 74.31g
+Fiber: 4.1g
+Sugars: 0.0g
+Actual Calories: 314
+Predicted Calories: 353.86
+Calorie Difference (Actual - Predicted): -39.86
+95% CI: [345.42, 362.30]
+
+----------------------------------------
+
+Name: Corn bran, crude
+Total Fat: 0.9g
+Vitamin A: 71.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.152 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.42 mg
+Protein: 8.36g
+Carbohydrate: 85.64g
+Fiber: 79.0g
+Sugars: 0.0g
+Actual Calories: 224
+Predicted Calories: 262.84
+Calorie Difference (Actual - Predicted): -38.84
+95% CI: [254.40, 271.28]
+
+----------------------------------------
+
+Name: Seeds, dried, watermelon seed kernels
+Total Fat: 47.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.089 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 28.33g
+Carbohydrate: 15.31g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 557
+Predicted Calories: 594.00
+Calorie Difference (Actual - Predicted): -37.00
+95% CI: [585.56, 602.44]
+
+----------------------------------------
+
+Name: Spices, saffron
+Total Fat: 5.9g
+Vitamin A: 530.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 1.01 mg
+Vitamin C: 80.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 11.43g
+Carbohydrate: 65.37g
+Fiber: 3.9g
+Sugars: 0.0g
+Actual Calories: 310
+Predicted Calories: 346.07
+Calorie Difference (Actual - Predicted): -36.07
+95% CI: [337.63, 354.51]
+
+----------------------------------------
+
+Name: Nuts, dried, butternuts
+Total Fat: 57.0g
+Vitamin A: 124.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.56 mg
+Vitamin C: 3.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 24.9g
+Carbohydrate: 12.05g
+Fiber: 4.7g
+Sugars: 0.0g
+Actual Calories: 612
+Predicted Calories: 647.57
+Calorie Difference (Actual - Predicted): -35.57
+95% CI: [639.13, 656.01]
+
+----------------------------------------
+
+Name: Tofu, dried-frozen (koyadofu)
+Total Fat: 30.0g
+Vitamin A: 518.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.286 mg
+Vitamin C: 0.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 52.47g
+Carbohydrate: 10.03g
+Fiber: 7.2g
+Sugars: 0.0g
+Actual Calories: 477
+Predicted Calories: 511.25
+Calorie Difference (Actual - Predicted): -34.25
+95% CI: [502.81, 519.69]
+
+----------------------------------------
+
+Name: Nuts, with salt added, unflavored, wheat-based, formulated
+Total Fat: 58.0g
+Vitamin A: 1.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.394 mg
+Vitamin C: 0.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.82g
+Carbohydrate: 23.68g
+Fiber: 5.2g
+Sugars: 0.0g
+Actual Calories: 622
+Predicted Calories: 655.81
+Calorie Difference (Actual - Predicted): -33.81
+95% CI: [647.37, 664.25]
+
+----------------------------------------
+
+Name: Snacks, unsalted nuts and seeds, with chocolate chips, regular, trail mix
+Total Fat: 32.0g
+Vitamin A: 44.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.259 mg
+Vitamin C: 1.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 14.2g
+Carbohydrate: 44.9g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 484
+Predicted Calories: 517.64
+Calorie Difference (Actual - Predicted): -33.64
+95% CI: [509.20, 526.08]
+
+----------------------------------------
+
+Name: Nuts, creamed, dried (desiccated), coconut meat
+Total Fat: 69.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.304 mg
+Vitamin C: 1.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.3g
+Carbohydrate: 21.52g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 684
+Predicted Calories: 717.46
+Calorie Difference (Actual - Predicted): -33.46
+95% CI: [709.02, 725.90]
+
+----------------------------------------
+
+Name: Seeds, high-fat, sesame flour
+Total Fat: 37.0g
+Vitamin A: 69.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.152 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 30.78g
+Carbohydrate: 26.62g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 526
+Predicted Calories: 559.28
+Calorie Difference (Actual - Predicted): -33.28
+95% CI: [550.84, 567.72]
+
+----------------------------------------
+
+Name: Leeks, freeze-dried, (bulb and lower-leaf portion)
+Total Fat: 2.1g
+Vitamin A: 277.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 1.209 mg
+Vitamin C: 118.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 15.2g
+Carbohydrate: 74.65g
+Fiber: 10.4g
+Sugars: 0.0g
+Actual Calories: 321
+Predicted Calories: 353.43
+Calorie Difference (Actual - Predicted): -32.43
+95% CI: [344.99, 361.87]
+
+----------------------------------------
+
+Name: Seeds, partially defatted, sesame meal
+Total Fat: 48.0g
+Vitamin A: 66.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.146 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 16.96g
+Carbohydrate: 26.04g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 567
+Predicted Calories: 597.63
+Calorie Difference (Actual - Predicted): -30.63
+95% CI: [589.19, 606.06]
+
+----------------------------------------
+
+Name: Nuts, without salt, all flavors except macadamia, wheat-based, formulated
+Total Fat: 62.0g
+Vitamin A: 1.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.348 mg
+Vitamin C: 0.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.11g
+Carbohydrate: 20.79g
+Fiber: 5.2g
+Sugars: 0.0g
+Actual Calories: 647
+Predicted Calories: 677.18
+Calorie Difference (Actual - Predicted): -30.18
+95% CI: [668.74, 685.62]
+
+----------------------------------------
+
+Name: Soybeans, stir-fried, cooked, sprouted, mature seeds
+Total Fat: 7.1g
+Vitamin A: 17.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.168 mg
+Vitamin C: 12.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.1g
+Carbohydrate: 9.4g
+Fiber: 0.8g
+Sugars: 0.0g
+Actual Calories: 125
+Predicted Calories: 154.71
+Calorie Difference (Actual - Predicted): -29.71
+95% CI: [146.27, 163.15]
+
+----------------------------------------
+
+Name: Soybeans, raw, sprouted, mature seeds
+Total Fat: 6.7g
+Vitamin A: 11.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.176 mg
+Vitamin C: 15.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.09g
+Carbohydrate: 9.57g
+Fiber: 1.1g
+Sugars: 0.0g
+Actual Calories: 122
+Predicted Calories: 151.29
+Calorie Difference (Actual - Predicted): -29.29
+95% CI: [142.85, 159.73]
+
+----------------------------------------
+
+Name: Peanuts, raw, spanish
+Total Fat: 50.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.348 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 26.15g
+Carbohydrate: 15.83g
+Fiber: 9.5g
+Sugars: 0.0g
+Actual Calories: 570
+Predicted Calories: 599.18
+Calorie Difference (Actual - Predicted): -29.18
+95% CI: [590.74, 607.62]
+
+----------------------------------------
+
+Name: Seeds, low-fat, sesame flour
+Total Fat: 1.8g
+Vitamin A: 64.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.142 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 50.14g
+Carbohydrate: 35.51g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 333
+Predicted Calories: 362.04
+Calorie Difference (Actual - Predicted): -29.04
+95% CI: [353.60, 370.48]
+
+----------------------------------------
+
+Name: Peaches, uncooked, sulfured, dehydrated (low-moisture)
+Total Fat: 1.0g
+Vitamin A: 1417.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.159 mg
+Vitamin C: 10.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.89g
+Carbohydrate: 83.18g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 325
+Predicted Calories: 353.71
+Calorie Difference (Actual - Predicted): -28.71
+95% CI: [345.27, 362.15]
+
+----------------------------------------
+
+Name: Prunes, uncooked, dehydrated (low-moisture)
+Total Fat: 0.7g
+Vitamin A: 1762.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.745 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.7g
+Carbohydrate: 89.07g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 339
+Predicted Calories: 367.52
+Calorie Difference (Actual - Predicted): -28.52
+95% CI: [359.08, 375.96]
+
+----------------------------------------
+
+Name: Seeds, partially defatted, sesame flour
+Total Fat: 12.0g
+Vitamin A: 69.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.152 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 40.32g
+Carbohydrate: 35.14g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 382
+Predicted Calories: 410.47
+Calorie Difference (Actual - Predicted): -28.47
+95% CI: [402.03, 418.91]
+
+----------------------------------------
+
+Name: Leavening agents, active dry, baker's, yeast
+Total Fat: 7.6g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.07 µg
+Vitamin B6: 1.5 mg
+Vitamin C: 0.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 40.44g
+Carbohydrate: 41.22g
+Fiber: 26.9g
+Sugars: 0.0g
+Actual Calories: 325
+Predicted Calories: 353.18
+Calorie Difference (Actual - Predicted): -28.18
+95% CI: [344.74, 361.62]
+
+----------------------------------------
+
+Name: Peanuts, raw, valencia
+Total Fat: 48.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.34 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 25.09g
+Carbohydrate: 20.91g
+Fiber: 8.7g
+Sugars: 0.0g
+Actual Calories: 570
+Predicted Calories: 598.00
+Calorie Difference (Actual - Predicted): -28.00
+95% CI: [589.56, 606.44]
+
+----------------------------------------
+
+Name: Peanuts, without salt, oil-roasted, virginia
+Total Fat: 49.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.254 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 25.87g
+Carbohydrate: 19.86g
+Fiber: 8.9g
+Sugars: 0.0g
+Actual Calories: 578
+Predicted Calories: 605.91
+Calorie Difference (Actual - Predicted): -27.91
+95% CI: [597.47, 614.35]
+
+----------------------------------------
+
+Name: Peanuts, with salt, oil-roasted, virginia
+Total Fat: 49.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.254 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 25.87g
+Carbohydrate: 19.86g
+Fiber: 8.9g
+Sugars: 0.0g
+Actual Calories: 578
+Predicted Calories: 605.91
+Calorie Difference (Actual - Predicted): -27.91
+95% CI: [597.47, 614.35]
+
+----------------------------------------
+
+Name: Snacks, regular, trail mix
+Total Fat: 29.0g
+Vitamin A: 18.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.298 mg
+Vitamin C: 1.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.8g
+Carbohydrate: 44.9g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 462
+Predicted Calories: 489.39
+Calorie Difference (Actual - Predicted): -27.39
+95% CI: [480.95, 497.83]
+
+----------------------------------------
+
+Name: Snacks, unsalted, regular, trail mix
+Total Fat: 29.0g
+Vitamin A: 18.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.298 mg
+Vitamin C: 1.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.8g
+Carbohydrate: 44.9g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 462
+Predicted Calories: 489.39
+Calorie Difference (Actual - Predicted): -27.39
+95% CI: [480.95, 497.83]
+
+----------------------------------------
+
+Name: Seeds, type of kernels unspecified, tahini, sesame butter
+Total Fat: 53.0g
+Vitamin A: 67.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.15 mg
+Vitamin C: 4.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.4g
+Carbohydrate: 21.5g
+Fiber: 4.7g
+Sugars: 0.0g
+Actual Calories: 592
+Predicted Calories: 619.17
+Calorie Difference (Actual - Predicted): -27.17
+95% CI: [610.73, 627.61]
+
+----------------------------------------
+
+Name: Soy meal, raw, defatted
+Total Fat: 2.4g
+Vitamin A: 40.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.569 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 49.2g
+Carbohydrate: 35.89g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 337
+Predicted Calories: 363.82
+Calorie Difference (Actual - Predicted): -26.82
+95% CI: [355.38, 372.26]
+
+----------------------------------------
+
+Name: Seeds, partially defatted (glandless), cottonseed meal
+Total Fat: 4.8g
+Vitamin A: 458.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.811 mg
+Vitamin C: 2.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 49.1g
+Carbohydrate: 38.43g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 367
+Predicted Calories: 393.70
+Calorie Difference (Actual - Predicted): -26.70
+95% CI: [385.26, 402.14]
+
+----------------------------------------
+
+Name: Desserts, dry mix, chocolate, rennin
+Total Fat: 3.3g
+Vitamin A: 3.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.032 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.4g
+Carbohydrate: 91.5g
+Fiber: 5.1g
+Sugars: 0.0g
+Actual Calories: 363
+Predicted Calories: 389.36
+Calorie Difference (Actual - Predicted): -26.36
+95% CI: [380.92, 397.80]
+
+----------------------------------------
+
+Name: Peanuts, without salt, oil-roasted, spanish
+Total Fat: 49.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.256 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 28.01g
+Carbohydrate: 17.45g
+Fiber: 8.9g
+Sugars: 0.0g
+Actual Calories: 579
+Predicted Calories: 605.34
+Calorie Difference (Actual - Predicted): -26.34
+95% CI: [596.90, 613.78]
+
+----------------------------------------
+
+Name: Peanuts, with salt, oil-roasted, spanish
+Total Fat: 49.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.256 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 28.01g
+Carbohydrate: 17.45g
+Fiber: 8.9g
+Sugars: 0.0g
+Actual Calories: 579
+Predicted Calories: 605.34
+Calorie Difference (Actual - Predicted): -26.34
+95% CI: [596.90, 613.78]
+
+----------------------------------------
+
+Name: Soybeans, dry roasted, mature seeds
+Total Fat: 22.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.225 mg
+Vitamin C: 4.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 43.32g
+Carbohydrate: 28.98g
+Fiber: 8.1g
+Sugars: 0.0g
+Actual Calories: 449
+Predicted Calories: 475.31
+Calorie Difference (Actual - Predicted): -26.31
+95% CI: [466.87, 483.75]
+
+----------------------------------------
+
+Name: Peas, raw, sprouted, mature seeds
+Total Fat: 0.7g
+Vitamin A: 166.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.265 mg
+Vitamin C: 10.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.8g
+Carbohydrate: 27.11g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 124
+Predicted Calories: 149.99
+Calorie Difference (Actual - Predicted): -25.99
+95% CI: [141.55, 158.43]
+
+----------------------------------------
+
+Name: Margarine-like spread, SMART BALANCE Omega Plus Spread (with plant sterols & fish oil)
+Total Fat: 71.0g
+Vitamin A: 5407.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 11.78 mg
+Protein: 0.13g
+Carbohydrate: 0.16g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 605
+Predicted Calories: 630.81
+Calorie Difference (Actual - Predicted): -25.81
+95% CI: [622.37, 639.25]
+
+----------------------------------------
+
+Name: Seeds, low fat (glandless), cottonseed flour
+Total Fat: 1.4g
+Vitamin A: 432.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.764 mg
+Vitamin C: 2.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 49.83g
+Carbohydrate: 36.1g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 332
+Predicted Calories: 357.77
+Calorie Difference (Actual - Predicted): -25.77
+95% CI: [349.33, 366.21]
+
+----------------------------------------
+
+Name: Peanuts, with salt, oil-roasted, valencia
+Total Fat: 51.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.243 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 27.04g
+Carbohydrate: 16.3g
+Fiber: 8.9g
+Sugars: 0.0g
+Actual Calories: 589
+Predicted Calories: 614.62
+Calorie Difference (Actual - Predicted): -25.62
+95% CI: [606.18, 623.06]
+
+----------------------------------------
+
+Name: Peanuts, without salt, oil-roasted, valencia
+Total Fat: 51.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.243 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 27.04g
+Carbohydrate: 16.3g
+Fiber: 8.9g
+Sugars: 0.0g
+Actual Calories: 589
+Predicted Calories: 614.62
+Calorie Difference (Actual - Predicted): -25.62
+95% CI: [606.18, 623.06]
+
+----------------------------------------
+
+Name: Oat bran, cooked
+Total Fat: 0.9g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.025 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.21g
+Carbohydrate: 11.44g
+Fiber: 2.6g
+Sugars: 0.0g
+Actual Calories: 40
+Predicted Calories: 65.28
+Calorie Difference (Actual - Predicted): -25.28
+95% CI: [56.84, 73.72]
+
+----------------------------------------
+
+Name: Seeds, paste, sesame butter
+Total Fat: 51.0g
+Vitamin A: 50.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.816 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 18.08g
+Carbohydrate: 24.05g
+Fiber: 5.5g
+Sugars: 0.0g
+Actual Calories: 586
+Predicted Calories: 611.28
+Calorie Difference (Actual - Predicted): -25.28
+95% CI: [602.84, 619.72]
+
+----------------------------------------
+
+Name: Nuts, dried, hickorynuts
+Total Fat: 64.0g
+Vitamin A: 131.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.192 mg
+Vitamin C: 2.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 12.72g
+Carbohydrate: 18.25g
+Fiber: 6.4g
+Sugars: 0.0g
+Actual Calories: 657
+Predicted Calories: 682.06
+Calorie Difference (Actual - Predicted): -25.06
+95% CI: [673.62, 690.50]
+
+----------------------------------------
+
+Name: Vegetable oil, palm kernel
+Total Fat: 100.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 3.81 mg
+Protein: 0.0g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 862
+Predicted Calories: 887.00
+Calorie Difference (Actual - Predicted): -25.00
+95% CI: [878.56, 895.44]
+
+----------------------------------------
+
+Name: Lentils, with salt, stir-fried, cooked, sprouted
+Total Fat: 0.5g
+Vitamin A: 41.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.164 mg
+Vitamin C: 12.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.8g
+Carbohydrate: 21.25g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 101
+Predicted Calories: 125.80
+Calorie Difference (Actual - Predicted): -24.80
+95% CI: [117.36, 134.24]
+
+----------------------------------------
+
+Name: Lentils, without salt, stir-fried, cooked, sprouted
+Total Fat: 0.5g
+Vitamin A: 41.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.164 mg
+Vitamin C: 12.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.8g
+Carbohydrate: 21.25g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 101
+Predicted Calories: 125.80
+Calorie Difference (Actual - Predicted): -24.80
+95% CI: [117.36, 134.24]
+
+----------------------------------------
+
+Name: Nuts, without salt added, without peanuts, oil roasted, mixed nuts
+Total Fat: 56.0g
+Vitamin A: 20.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.18 mg
+Vitamin C: 0.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 15.52g
+Carbohydrate: 22.27g
+Fiber: 5.5g
+Sugars: 0.0g
+Actual Calories: 615
+Predicted Calories: 639.78
+Calorie Difference (Actual - Predicted): -24.78
+95% CI: [631.34, 648.22]
+
+----------------------------------------
+
+Name: Nuts, without salt added, plain, cashew butter
+Total Fat: 49.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.252 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.56g
+Carbohydrate: 27.57g
+Fiber: 2.0g
+Sugars: 0.0g
+Actual Calories: 587
+Predicted Calories: 611.68
+Calorie Difference (Actual - Predicted): -24.68
+95% CI: [603.24, 620.12]
+
+----------------------------------------
+
+Name: Lentils, raw, sprouted
+Total Fat: 0.6g
+Vitamin A: 45.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.19 mg
+Vitamin C: 16.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.96g
+Carbohydrate: 22.14g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 106
+Predicted Calories: 130.66
+Calorie Difference (Actual - Predicted): -24.66
+95% CI: [122.22, 139.10]
+
+----------------------------------------
+
+Name: Muffins, dry mix, wheat bran
+Total Fat: 12.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.282 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.1g
+Carbohydrate: 73.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 396
+Predicted Calories: 420.58
+Calorie Difference (Actual - Predicted): -24.58
+95% CI: [412.14, 429.01]
+
+----------------------------------------
+
+Name: Snacks, chocolate chip, milk chocolate coating, coated, soft, granola bars
+Total Fat: 25.0g
+Vitamin A: 39.0 IU
+Vitamin B12: 0.57 µg
+Vitamin B6: 0.1 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.8g
+Carbohydrate: 63.8g
+Fiber: 3.4g
+Sugars: 0.0g
+Actual Calories: 466
+Predicted Calories: 490.13
+Calorie Difference (Actual - Predicted): -24.13
+95% CI: [481.69, 498.57]
+
+----------------------------------------
+
+Name: Seeds, roasted (glandless), cottonseed kernels
+Total Fat: 36.0g
+Vitamin A: 442.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.782 mg
+Vitamin C: 9.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 32.59g
+Carbohydrate: 21.9g
+Fiber: 5.5g
+Sugars: 0.0g
+Actual Calories: 506
+Predicted Calories: 529.78
+Calorie Difference (Actual - Predicted): -23.78
+95% CI: [521.34, 538.22]
+
+----------------------------------------
+
+Name: Bread, oatmeal, reduced-calorie
+Total Fat: 3.5g
+Vitamin A: 6.0 IU
+Vitamin B12: 0.1 µg
+Vitamin B6: 0.045 mg
+Vitamin C: 0.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.6g
+Carbohydrate: 43.3g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 210
+Predicted Calories: 233.24
+Calorie Difference (Actual - Predicted): -23.24
+95% CI: [224.80, 241.68]
+
+----------------------------------------
+
+Name: Snacks, peanut butter and chocolate chip, uncoated, soft, granola bars
+Total Fat: 20.0g
+Vitamin A: 12.0 IU
+Vitamin B12: 0.45 µg
+Vitamin B6: 0.1 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 9.8g
+Carbohydrate: 62.2g
+Fiber: 4.2g
+Sugars: 0.0g
+Actual Calories: 432
+Predicted Calories: 454.98
+Calorie Difference (Actual - Predicted): -22.98
+95% CI: [446.54, 463.42]
+
+----------------------------------------
+
+Name: Bacon, meatless
+Total Fat: 30.0g
+Vitamin A: 88.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.479 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 6.9 mg
+Protein: 11.69g
+Carbohydrate: 5.31g
+Fiber: 2.6g
+Sugars: 0.0g
+Actual Calories: 309
+Predicted Calories: 331.83
+Calorie Difference (Actual - Predicted): -22.83
+95% CI: [323.39, 340.27]
+
+----------------------------------------
+
+Name: Nuts, dried, beechnuts
+Total Fat: 50.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.684 mg
+Vitamin C: 15.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 6.2g
+Carbohydrate: 33.5g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 576
+Predicted Calories: 598.44
+Calorie Difference (Actual - Predicted): -22.44
+95% CI: [590.00, 606.88]
+
+----------------------------------------
+
+Name: Snacks, chocolate chip, crisped rice bar
+Total Fat: 14.0g
+Vitamin A: 1764.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.705 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.1g
+Carbohydrate: 73.0g
+Fiber: 2.2g
+Sugars: 0.0g
+Actual Calories: 404
+Predicted Calories: 425.49
+Calorie Difference (Actual - Predicted): -21.49
+95% CI: [417.05, 433.93]
+
+----------------------------------------
+
+Name: Tempeh
+Total Fat: 11.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.08 µg
+Vitamin B6: 0.215 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 20.29g
+Carbohydrate: 7.64g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 192
+Predicted Calories: 213.02
+Calorie Difference (Actual - Predicted): -21.02
+95% CI: [204.58, 221.46]
+
+----------------------------------------
+
+Name: Noodles, dry, soba, japanese
+Total Fat: 0.7g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.24 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 14.38g
+Carbohydrate: 74.62g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 336
+Predicted Calories: 356.95
+Calorie Difference (Actual - Predicted): -20.95
+95% CI: [348.51, 365.39]
+
+----------------------------------------
+
+Name: Seeds, from unroasted kernels (non-chemically removed seed coat), tahini, sesame butter
+Total Fat: 56.0g
+Vitamin A: 67.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.149 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.95g
+Carbohydrate: 17.89g
+Fiber: 9.3g
+Sugars: 0.0g
+Actual Calories: 607
+Predicted Calories: 627.38
+Calorie Difference (Actual - Predicted): -20.38
+95% CI: [618.94, 635.82]
+
+----------------------------------------
+
+Name: Gelatins, unsweetened, dry powder
+Total Fat: 0.1g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.007 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 85.6g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 335
+Predicted Calories: 355.22
+Calorie Difference (Actual - Predicted): -20.22
+95% CI: [346.78, 363.66]
+
+----------------------------------------
+
+Name: Nuts, raw (liquid expressed from grated meat), coconut cream
+Total Fat: 35.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.047 mg
+Vitamin C: 2.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.63g
+Carbohydrate: 6.65g
+Fiber: 2.2g
+Sugars: 0.0g
+Actual Calories: 330
+Predicted Calories: 350.20
+Calorie Difference (Actual - Predicted): -20.20
+95% CI: [341.76, 358.64]
+
+----------------------------------------
+
+Name: Spices, fenugreek seed
+Total Fat: 6.4g
+Vitamin A: 60.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.6 mg
+Vitamin C: 3.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 23.0g
+Carbohydrate: 58.35g
+Fiber: 24.6g
+Sugars: 0.0g
+Actual Calories: 323
+Predicted Calories: 343.11
+Calorie Difference (Actual - Predicted): -20.11
+95% CI: [334.67, 351.55]
+
+----------------------------------------
+
+Name: Pectin, dry mix, unsweetened
+Total Fat: 0.3g
+Vitamin A: 3.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.01 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 0.3g
+Carbohydrate: 90.4g
+Fiber: 8.6g
+Sugars: 0.0g
+Actual Calories: 325
+Predicted Calories: 345.01
+Calorie Difference (Actual - Predicted): -20.01
+95% CI: [336.57, 353.45]
+
+----------------------------------------
+
+Name: Nuts, dried, pinyon, pine nuts
+Total Fat: 61.0g
+Vitamin A: 29.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.111 mg
+Vitamin C: 2.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 11.57g
+Carbohydrate: 19.3g
+Fiber: 10.7g
+Sugars: 0.0g
+Actual Calories: 629
+Predicted Calories: 648.93
+Calorie Difference (Actual - Predicted): -19.93
+95% CI: [640.49, 657.37]
+
+----------------------------------------
+
+Name: Winged bean tuber, raw
+Total Fat: 0.9g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.075 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 11.6g
+Carbohydrate: 28.1g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 148
+Predicted Calories: 167.74
+Calorie Difference (Actual - Predicted): -19.74
+95% CI: [159.30, 176.18]
+
+----------------------------------------
+
+Name: Seeds, with salt added, toasted, sunflower seed kernels
+Total Fat: 57.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.805 mg
+Vitamin C: 1.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.21g
+Carbohydrate: 20.59g
+Fiber: 11.5g
+Sugars: 0.0g
+Actual Calories: 619
+Predicted Calories: 638.69
+Calorie Difference (Actual - Predicted): -19.69
+95% CI: [630.25, 647.13]
+
+----------------------------------------
+
+Name: Seeds, without salt, toasted, sunflower seed kernels
+Total Fat: 57.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.805 mg
+Vitamin C: 1.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.21g
+Carbohydrate: 20.59g
+Fiber: 11.5g
+Sugars: 0.0g
+Actual Calories: 619
+Predicted Calories: 638.69
+Calorie Difference (Actual - Predicted): -19.69
+95% CI: [630.25, 647.13]
+
+----------------------------------------
+
+Name: Nuts, toasted, dried (desiccated), coconut meat
+Total Fat: 47.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.306 mg
+Vitamin C: 1.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.3g
+Carbohydrate: 44.4g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 592
+Predicted Calories: 611.64
+Calorie Difference (Actual - Predicted): -19.64
+95% CI: [603.20, 620.08]
+
+----------------------------------------
+
+Name: Spices, cardamom
+Total Fat: 6.7g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.23 mg
+Vitamin C: 21.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 10.76g
+Carbohydrate: 68.47g
+Fiber: 28.0g
+Sugars: 0.0g
+Actual Calories: 311
+Predicted Calories: 330.62
+Calorie Difference (Actual - Predicted): -19.62
+95% CI: [322.18, 339.06]
+
+----------------------------------------
+
+Name: Beans, with salt, drained, boiled, cooked, sprouted, mature seeds, navy
+Total Fat: 0.8g
+Vitamin A: 4.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.198 mg
+Vitamin C: 17.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.07g
+Carbohydrate: 15.01g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 78
+Predicted Calories: 97.07
+Calorie Difference (Actual - Predicted): -19.07
+95% CI: [88.63, 105.51]
+
+----------------------------------------
+
+Name: Beans, without salt, drained, boiled, cooked, sprouted, mature seeds, navy
+Total Fat: 0.8g
+Vitamin A: 4.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.198 mg
+Vitamin C: 17.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.07g
+Carbohydrate: 15.01g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 78
+Predicted Calories: 97.07
+Calorie Difference (Actual - Predicted): -19.07
+95% CI: [88.63, 105.51]
+
+----------------------------------------
+
+Name: Triticale
+Total Fat: 2.1g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.138 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.9 mg
+Protein: 13.05g
+Carbohydrate: 72.13g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 336
+Predicted Calories: 354.46
+Calorie Difference (Actual - Predicted): -18.46
+95% CI: [346.02, 362.90]
+
+----------------------------------------
+
+Name: Seeds, dried, safflower seed kernels
+Total Fat: 38.0g
+Vitamin A: 50.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 1.17 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 16.18g
+Carbohydrate: 34.29g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 517
+Predicted Calories: 535.27
+Calorie Difference (Actual - Predicted): -18.27
+95% CI: [526.83, 543.71]
+
+----------------------------------------
+
+Name: Seeds, from raw and stone ground kernels, tahini, sesame butter
+Total Fat: 48.0g
+Vitamin A: 67.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.149 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.81g
+Carbohydrate: 26.19g
+Fiber: 9.3g
+Sugars: 0.0g
+Actual Calories: 570
+Predicted Calories: 588.25
+Calorie Difference (Actual - Predicted): -18.25
+95% CI: [579.81, 596.69]
+
+----------------------------------------
+
+Name: Seeds, partially defatted, sunflower seed flour
+Total Fat: 1.6g
+Vitamin A: 49.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.753 mg
+Vitamin C: 1.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 48.06g
+Carbohydrate: 35.83g
+Fiber: 5.2g
+Sugars: 0.0g
+Actual Calories: 326
+Predicted Calories: 343.83
+Calorie Difference (Actual - Predicted): -17.83
+95% CI: [335.39, 352.27]
+
+----------------------------------------
+
+Name: Beans, raw, sprouted, mature seeds, navy
+Total Fat: 0.7g
+Vitamin A: 4.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.191 mg
+Vitamin C: 18.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 6.15g
+Carbohydrate: 13.05g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 67
+Predicted Calories: 84.83
+Calorie Difference (Actual - Predicted): -17.83
+95% CI: [76.39, 93.27]
+
+----------------------------------------
+
+Name: Snacks, made with enriched masa flour, barbecue-flavor, chips, extruded, corn-based
+Total Fat: 33.0g
+Vitamin A: 611.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.23 mg
+Vitamin C: 1.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.0g
+Carbohydrate: 56.2g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 523
+Predicted Calories: 540.70
+Calorie Difference (Actual - Predicted): -17.70
+95% CI: [532.26, 549.14]
+
+----------------------------------------
+
+Name: Seeds, partially defatted (glandless), cottonseed flour
+Total Fat: 6.2g
+Vitamin A: 434.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.769 mg
+Vitamin C: 2.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 40.96g
+Carbohydrate: 40.54g
+Fiber: 3.0g
+Sugars: 0.0g
+Actual Calories: 359
+Predicted Calories: 376.68
+Calorie Difference (Actual - Predicted): -17.68
+95% CI: [368.24, 385.12]
+
+----------------------------------------
+
+Name: Wheat, durum
+Total Fat: 2.5g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.419 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 13.68g
+Carbohydrate: 71.13g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 339
+Predicted Calories: 356.00
+Calorie Difference (Actual - Predicted): -17.00
+95% CI: [347.56, 364.44]
+
+----------------------------------------
+
+Name: Pasta, TINKYADA, cooked, brown rice flour, gluten-free
+Total Fat: 1.7g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.075 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.46g
+Carbohydrate: 32.2g
+Fiber: 1.7g
+Sugars: 0.0g
+Actual Calories: 138
+Predicted Calories: 154.88
+Calorie Difference (Actual - Predicted): -16.88
+95% CI: [146.44, 163.32]
+
+----------------------------------------
+
+Name: Tempeh, cooked
+Total Fat: 11.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.14 µg
+Vitamin B6: 0.199 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 19.91g
+Carbohydrate: 7.62g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 195
+Predicted Calories: 211.43
+Calorie Difference (Actual - Predicted): -16.43
+95% CI: [202.99, 219.87]
+
+----------------------------------------
+
+Name: Fish, granular, black and red, caviar
+Total Fat: 18.0g
+Vitamin A: 905.0 IU
+Vitamin B12: 20.0 µg
+Vitamin B6: 0.32 mg
+Vitamin C: 0.0 mg
+Vitamin D: 117.0 IU
+Vitamin E: 1.89 mg
+Protein: 24.6g
+Carbohydrate: 4.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 264
+Predicted Calories: 280.38
+Calorie Difference (Actual - Predicted): -16.38
+95% CI: [271.94, 288.82]
+
+----------------------------------------
+
+Name: Fish, raw, mixed species, roe
+Total Fat: 6.4g
+Vitamin A: 299.0 IU
+Vitamin B12: 10.0 µg
+Vitamin B6: 0.16 mg
+Vitamin C: 16.0 mg
+Vitamin D: 484.0 IU
+Vitamin E: 7.0 mg
+Protein: 22.32g
+Carbohydrate: 1.5g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 143
+Predicted Calories: 158.96
+Calorie Difference (Actual - Predicted): -15.96
+95% CI: [150.52, 167.40]
+
+----------------------------------------
+
+Name: Tofu, prepared with calcium sulfate, fried
+Total Fat: 20.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.099 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 18.82g
+Carbohydrate: 8.86g
+Fiber: 3.9g
+Sugars: 0.0g
+Actual Calories: 270
+Predicted Calories: 285.90
+Calorie Difference (Actual - Predicted): -15.90
+95% CI: [277.46, 294.34]
+
+----------------------------------------
+
+Name: Sausage, meatless
+Total Fat: 18.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.828 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 2.1 mg
+Protein: 20.28g
+Carbohydrate: 8.09g
+Fiber: 2.8g
+Sugars: 0.0g
+Actual Calories: 255
+Predicted Calories: 270.77
+Calorie Difference (Actual - Predicted): -15.77
+95% CI: [262.33, 279.21]
+
+----------------------------------------
+
+Name: Raisins, seeded
+Total Fat: 0.5g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.188 mg
+Vitamin C: 5.4 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.52g
+Carbohydrate: 78.47g
+Fiber: 6.8g
+Sugars: 0.0g
+Actual Calories: 296
+Predicted Calories: 311.74
+Calorie Difference (Actual - Predicted): -15.74
+95% CI: [303.30, 320.18]
+
+----------------------------------------
+
+Name: Winged bean leaves, raw
+Total Fat: 1.1g
+Vitamin A: 8090.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.232 mg
+Vitamin C: 45.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.85g
+Carbohydrate: 14.1g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 74
+Predicted Calories: 89.55
+Calorie Difference (Actual - Predicted): -15.55
+95% CI: [81.11, 97.99]
+
+----------------------------------------
+
+Name: Nuts, frozen (liquid expressed from grated meat and water), coconut milk
+Total Fat: 21.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.03 mg
+Vitamin C: 1.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 1.61g
+Carbohydrate: 5.58g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 202
+Predicted Calories: 217.35
+Calorie Difference (Actual - Predicted): -15.35
+95% CI: [208.91, 225.79]
+
+----------------------------------------
+
+Name: Beans, raw, sprouted, mature seeds, pinto
+Total Fat: 0.9g
+Vitamin A: 2.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.171 mg
+Vitamin C: 21.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.25g
+Carbohydrate: 11.6g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 62
+Predicted Calories: 77.31
+Calorie Difference (Actual - Predicted): -15.31
+95% CI: [68.87, 85.75]
+
+----------------------------------------
+
+Name: Tofu, prepared with nigari, hard
+Total Fat: 10.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.039 mg
+Vitamin C: 0.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 12.68g
+Carbohydrate: 4.39g
+Fiber: 0.6g
+Sugars: 0.0g
+Actual Calories: 145
+Predicted Calories: 160.03
+Calorie Difference (Actual - Predicted): -15.03
+95% CI: [151.59, 168.47]
+
+----------------------------------------
+
+Name: Cookies, regular, dry mix, brownies
+Total Fat: 15.0g
+Vitamin A: 11.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.067 mg
+Vitamin C: 0.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.0g
+Carbohydrate: 76.6g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 434
+Predicted Calories: 448.88
+Calorie Difference (Actual - Predicted): -14.88
+95% CI: [440.44, 457.32]
+
+----------------------------------------
+
+Name: Tomatoes, drained, packed in oil, sun-dried
+Total Fat: 14.0g
+Vitamin A: 1286.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.319 mg
+Vitamin C: 101.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.06g
+Carbohydrate: 23.33g
+Fiber: 5.8g
+Sugars: 0.0g
+Actual Calories: 213
+Predicted Calories: 227.54
+Calorie Difference (Actual - Predicted): -14.54
+95% CI: [219.10, 235.98]
+
+----------------------------------------
+
+Name: Tofu, prepared with calcium sulfate, firm, raw
+Total Fat: 8.7g
+Vitamin A: 166.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.092 mg
+Vitamin C: 0.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 17.27g
+Carbohydrate: 2.78g
+Fiber: 2.3g
+Sugars: 0.0g
+Actual Calories: 144
+Predicted Calories: 158.50
+Calorie Difference (Actual - Predicted): -14.50
+95% CI: [150.06, 166.94]
+
+----------------------------------------
+
+Name: Succotash, with salt, drained, boiled, cooked, (corn and limas)
+Total Fat: 0.8g
+Vitamin A: 294.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.116 mg
+Vitamin C: 8.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.07g
+Carbohydrate: 24.37g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 111
+Predicted Calories: 125.41
+Calorie Difference (Actual - Predicted): -14.41
+95% CI: [116.97, 133.85]
+
+----------------------------------------
+
+Name: Lemon grass (citronella), raw
+Total Fat: 0.5g
+Vitamin A: 6.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.08 mg
+Vitamin C: 2.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 1.82g
+Carbohydrate: 25.31g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 99
+Predicted Calories: 113.30
+Calorie Difference (Actual - Predicted): -14.30
+95% CI: [104.86, 121.74]
+
+----------------------------------------
+
+Name: Seeds, partially defatted, safflower seed meal
+Total Fat: 2.4g
+Vitamin A: 49.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 1.161 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 35.62g
+Carbohydrate: 48.73g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 342
+Predicted Calories: 356.30
+Calorie Difference (Actual - Predicted): -14.30
+95% CI: [347.86, 364.74]
+
+----------------------------------------
+
+Name: Snacks, unsalted, wheat-based, sesame sticks
+Total Fat: 37.0g
+Vitamin A: 88.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.086 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 10.9g
+Carbohydrate: 46.5g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 541
+Predicted Calories: 554.96
+Calorie Difference (Actual - Predicted): -13.96
+95% CI: [546.52, 563.40]
+
+----------------------------------------
+
+Name: Steelhead trout, flesh (Shoshone Bannock), dried
+Total Fat: 8.1g
+Vitamin A: 213.0 IU
+Vitamin B12: 22.4 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 628.0 IU
+Vitamin E: 2.41 mg
+Protein: 77.27g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 382
+Predicted Calories: 395.87
+Calorie Difference (Actual - Predicted): -13.87
+95% CI: [387.43, 404.31]
+
+----------------------------------------
+
+Name: Nuts, unblanched, honey roasted, almonds
+Total Fat: 50.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.085 mg
+Vitamin C: 0.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 18.17g
+Carbohydrate: 27.9g
+Fiber: 13.7g
+Sugars: 0.0g
+Actual Calories: 594
+Predicted Calories: 607.83
+Calorie Difference (Actual - Predicted): -13.83
+95% CI: [599.39, 616.27]
+
+----------------------------------------
+
+Name: Corn with red and green peppers, solids and liquids, canned
+Total Fat: 0.6g
+Vitamin A: 232.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.097 mg
+Vitamin C: 8.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.33g
+Carbohydrate: 18.17g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 75
+Predicted Calories: 88.47
+Calorie Difference (Actual - Predicted): -13.47
+95% CI: [80.03, 96.91]
+
+----------------------------------------
+
+Name: Beans, with salt, drained, boiled, cooked, sprouted, mature seeds, kidney
+Total Fat: 0.6g
+Vitamin A: 2.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.093 mg
+Vitamin C: 35.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.83g
+Carbohydrate: 4.72g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 33
+Predicted Calories: 46.32
+Calorie Difference (Actual - Predicted): -13.32
+95% CI: [37.88, 54.76]
+
+----------------------------------------
+
+Name: Beans, without salt, drained, boiled, cooked, sprouted, mature seeds, kidney
+Total Fat: 0.6g
+Vitamin A: 2.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.093 mg
+Vitamin C: 35.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.83g
+Carbohydrate: 4.72g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 33
+Predicted Calories: 46.32
+Calorie Difference (Actual - Predicted): -13.32
+95% CI: [37.88, 54.76]
+
+----------------------------------------
+
+Name: Cookies, prepared from recipe, brownies
+Total Fat: 29.0g
+Vitamin A: 827.0 IU
+Vitamin B12: 0.16 µg
+Vitamin B6: 0.094 mg
+Vitamin C: 0.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 6.2g
+Carbohydrate: 50.2g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 466
+Predicted Calories: 479.24
+Calorie Difference (Actual - Predicted): -13.24
+95% CI: [470.80, 487.68]
+
+----------------------------------------
+
+Name: Snacks, whole-wheat including both salted and unsalted, hard, pretzels
+Total Fat: 2.6g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.274 mg
+Vitamin C: 1.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 11.1g
+Carbohydrate: 81.3g
+Fiber: 7.7g
+Sugars: 0.0g
+Actual Calories: 362
+Predicted Calories: 374.92
+Calorie Difference (Actual - Predicted): -12.92
+95% CI: [366.48, 383.36]
+
+----------------------------------------
+
+Name: Corn, unprepared, kernels on cob, frozen, white, sweet
+Total Fat: 0.8g
+Vitamin A: 4.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.179 mg
+Vitamin C: 7.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.28g
+Carbohydrate: 23.5g
+Fiber: 2.8g
+Sugars: 0.0g
+Actual Calories: 98
+Predicted Calories: 110.55
+Calorie Difference (Actual - Predicted): -12.55
+95% CI: [102.11, 118.99]
+
+----------------------------------------
+
+Name: Cereals ready-to-eat, fortified, puffed, wheat
+Total Fat: 1.2g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.17 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 14.7g
+Carbohydrate: 79.6g
+Fiber: 4.4g
+Sugars: 0.0g
+Actual Calories: 364
+Predicted Calories: 375.78
+Calorie Difference (Actual - Predicted): -11.78
+95% CI: [367.34, 384.22]
+
+----------------------------------------
+
+Name: Cowpeas, raw, leafy tips
+Total Fat: 0.3g
+Vitamin A: 712.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.177 mg
+Vitamin C: 36.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.1g
+Carbohydrate: 4.82g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 29
+Predicted Calories: 40.74
+Calorie Difference (Actual - Predicted): -11.74
+95% CI: [32.30, 49.17]
+
+----------------------------------------
+
+Name: Tofu, salted and fermented (fuyu)
+Total Fat: 8.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.091 mg
+Vitamin C: 0.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.92g
+Carbohydrate: 4.38g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 116
+Predicted Calories: 127.65
+Calorie Difference (Actual - Predicted): -11.65
+95% CI: [119.21, 136.09]
+
+----------------------------------------
+
+Name: Tofu, prepared with calcium sulfate, salted and fermented (fuyu)
+Total Fat: 8.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.091 mg
+Vitamin C: 0.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 8.15g
+Carbohydrate: 5.15g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 116
+Predicted Calories: 127.47
+Calorie Difference (Actual - Predicted): -11.47
+95% CI: [119.04, 135.91]
+
+----------------------------------------
+
+Name: Beans, raw, sprouted, mature seeds, kidney
+Total Fat: 0.5g
+Vitamin A: 2.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.085 mg
+Vitamin C: 38.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 4.2g
+Carbohydrate: 4.1g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 29
+Predicted Calories: 40.43
+Calorie Difference (Actual - Predicted): -11.43
+95% CI: [31.99, 48.87]
+
+----------------------------------------
+
+Name: Corn, without salt, drained, boiled, cooked, kernels on cob, frozen, white, sweet
+Total Fat: 0.7g
+Vitamin A: 4.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.224 mg
+Vitamin C: 4.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.11g
+Carbohydrate: 22.33g
+Fiber: 2.1g
+Sugars: 0.0g
+Actual Calories: 94
+Predicted Calories: 105.37
+Calorie Difference (Actual - Predicted): -11.37
+95% CI: [96.93, 113.81]
+
+----------------------------------------
+
+Name: Cookies, made with butter, prepared from recipe, chocolate chip
+Total Fat: 28.0g
+Vitamin A: 594.0 IU
+Vitamin B12: 0.08 µg
+Vitamin B6: 0.084 mg
+Vitamin C: 0.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.7g
+Carbohydrate: 58.2g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 488
+Predicted Calories: 499.37
+Calorie Difference (Actual - Predicted): -11.37
+95% CI: [490.93, 507.81]
+
+----------------------------------------
+
+Name: Nuts, canned (liquid expressed from grated meat and water), coconut milk
+Total Fat: 21.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.028 mg
+Vitamin C: 1.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.02g
+Carbohydrate: 2.81g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 197
+Predicted Calories: 208.32
+Calorie Difference (Actual - Predicted): -11.32
+95% CI: [199.88, 216.76]
+
+----------------------------------------
+
+Name: Seal, dried (Alaska Native), meat, bearded (Oogruk)
+Total Fat: 2.3g
+Vitamin A: 1310.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 82.6g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 351
+Predicted Calories: 362.19
+Calorie Difference (Actual - Predicted): -11.19
+95% CI: [353.75, 370.63]
+
+----------------------------------------
+
+Name: Egg, glucose reduced, stabilized, dried, white
+Total Fat: 0.3g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.2 µg
+Vitamin B6: 0.032 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 84.08g
+Carbohydrate: 4.51g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 357
+Predicted Calories: 368.16
+Calorie Difference (Actual - Predicted): -11.16
+95% CI: [359.72, 376.60]
+
+----------------------------------------
+
+Name: Snacks, graham and marshmallow, chocolate chip, uncoated, soft, granola bars
+Total Fat: 16.0g
+Vitamin A: 47.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.05 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 6.1g
+Carbohydrate: 70.8g
+Fiber: 4.0g
+Sugars: 0.0g
+Actual Calories: 427
+Predicted Calories: 438.14
+Calorie Difference (Actual - Predicted): -11.14
+95% CI: [429.70, 446.58]
+
+----------------------------------------
+
+Name: Radish seeds, raw, sprouted
+Total Fat: 2.5g
+Vitamin A: 391.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.285 mg
+Vitamin C: 28.9 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.81g
+Carbohydrate: 3.6g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 43
+Predicted Calories: 54.12
+Calorie Difference (Actual - Predicted): -11.12
+95% CI: [45.68, 62.56]
+
+----------------------------------------
+
+Name: Corn, regular pack, vacuum pack, canned, white, sweet
+Total Fat: 0.5g
+Vitamin A: 1.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.055 mg
+Vitamin C: 8.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.41g
+Carbohydrate: 19.44g
+Fiber: 2.0g
+Sugars: 0.0g
+Actual Calories: 79
+Predicted Calories: 90.10
+Calorie Difference (Actual - Predicted): -11.10
+95% CI: [81.66, 98.54]
+
+----------------------------------------
+
+Name: Corn, no salt added, vacuum pack, canned, white, sweet
+Total Fat: 0.5g
+Vitamin A: 1.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.055 mg
+Vitamin C: 8.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.41g
+Carbohydrate: 19.44g
+Fiber: 2.0g
+Sugars: 0.0g
+Actual Calories: 79
+Predicted Calories: 90.10
+Calorie Difference (Actual - Predicted): -11.10
+95% CI: [81.66, 98.54]
+
+----------------------------------------
+
+Name: Thyme, fresh
+Total Fat: 1.7g
+Vitamin A: 4751.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.348 mg
+Vitamin C: 160.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 5.56g
+Carbohydrate: 24.45g
+Fiber: 14.0g
+Sugars: 0.0g
+Actual Calories: 101
+Predicted Calories: 112.01
+Calorie Difference (Actual - Predicted): -11.01
+95% CI: [103.57, 120.45]
+
+----------------------------------------
+
+Name: Margarine-like spread, BENECOL Light Spread
+Total Fat: 39.0g
+Vitamin A: 4567.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 37.22 mg
+Protein: 0.0g
+Carbohydrate: 5.71g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 357
+Predicted Calories: 367.99
+Calorie Difference (Actual - Predicted): -10.99
+95% CI: [359.55, 376.43]
+
+----------------------------------------
+
+Name: Gravy, prepared, low sodium, meat or poultry
+Total Fat: 2.4g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.1 µg
+Vitamin B6: 0.01 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.06 mg
+Protein: 3.8g
+Carbohydrate: 6.16g
+Fiber: 0.3g
+Sugars: 0.01g
+Actual Calories: 53
+Predicted Calories: 63.91
+Calorie Difference (Actual - Predicted): -10.91
+95% CI: [55.47, 72.35]
+
+----------------------------------------
+
+Name: Vital wheat gluten
+Total Fat: 1.9g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.0 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 75.16g
+Carbohydrate: 13.79g
+Fiber: 0.6g
+Sugars: 0.0g
+Actual Calories: 370
+Predicted Calories: 380.87
+Calorie Difference (Actual - Predicted): -10.87
+95% CI: [372.43, 389.31]
+
+----------------------------------------
+
+Name: Corn, solids and liquids, no salt added, whole kernel, canned, white, sweet
+Total Fat: 0.5g
+Vitamin A: 1.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.037 mg
+Vitamin C: 5.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 1.95g
+Carbohydrate: 15.41g
+Fiber: 0.7g
+Sugars: 0.0g
+Actual Calories: 64
+Predicted Calories: 74.58
+Calorie Difference (Actual - Predicted): -10.58
+95% CI: [66.14, 83.02]
+
+----------------------------------------
+
+Name: Lamb, soaked and fried, cooked, kidney, imported, New Zealand
+Total Fat: 3.6g
+Vitamin A: 284.0 IU
+Vitamin B12: 55.56 µg
+Vitamin B6: 0.23 mg
+Vitamin C: 0.0 mg
+Vitamin D: 8.0 IU
+Vitamin E: 0.57 mg
+Protein: 19.78g
+Carbohydrate: 0.18g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 112
+Predicted Calories: 122.47
+Calorie Difference (Actual - Predicted): -10.47
+95% CI: [114.03, 130.91]
+
+----------------------------------------
+
+Name: Pickle relish, hamburger
+Total Fat: 0.5g
+Vitamin A: 267.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.015 mg
+Vitamin C: 2.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 0.63g
+Carbohydrate: 34.48g
+Fiber: 3.2g
+Sugars: 0.0g
+Actual Calories: 129
+Predicted Calories: 139.43
+Calorie Difference (Actual - Predicted): -10.43
+95% CI: [130.99, 147.87]
+
+----------------------------------------
+
+Name: Corn, with salt, drained, boiled, cooked, kernels on cob, frozen, white, sweet
+Total Fat: 0.7g
+Vitamin A: 4.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.224 mg
+Vitamin C: 4.8 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.11g
+Carbohydrate: 22.33g
+Fiber: 2.8g
+Sugars: 0.0g
+Actual Calories: 94
+Predicted Calories: 104.36
+Calorie Difference (Actual - Predicted): -10.36
+95% CI: [95.92, 112.80]
+
+----------------------------------------
+
+Name: Nuts, raw, acorns
+Total Fat: 24.0g
+Vitamin A: 39.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.528 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 6.15g
+Carbohydrate: 40.75g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 387
+Predicted Calories: 397.23
+Calorie Difference (Actual - Predicted): -10.23
+95% CI: [388.79, 405.67]
+
+----------------------------------------
+
+Name: Snacks, barbecue-flavor, chips, extruded, corn-based
+Total Fat: 33.0g
+Vitamin A: 611.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.23 mg
+Vitamin C: 1.7 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.0g
+Carbohydrate: 56.2g
+Fiber: 5.2g
+Sugars: 0.0g
+Actual Calories: 523
+Predicted Calories: 533.19
+Calorie Difference (Actual - Predicted): -10.19
+95% CI: [524.75, 541.63]
+
+----------------------------------------
+
+Name: Wheat, sprouted
+Total Fat: 1.3g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.265 mg
+Vitamin C: 2.6 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.49g
+Carbohydrate: 42.53g
+Fiber: 1.1g
+Sugars: 0.0g
+Actual Calories: 198
+Predicted Calories: 208.15
+Calorie Difference (Actual - Predicted): -10.15
+95% CI: [199.71, 216.59]
+
+----------------------------------------
+
+Name: Whale, dried (Alaska Native), meat, beluga
+Total Fat: 5.3g
+Vitamin A: 0.0 IU
+Vitamin B12: 7.31 µg
+Vitamin B6: 0.131 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.27 mg
+Protein: 69.86g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 327
+Predicted Calories: 337.11
+Calorie Difference (Actual - Predicted): -10.11
+95% CI: [328.67, 345.55]
+
+----------------------------------------
+
+Name: Broccoli, raw, stalks
+Total Fat: 0.4g
+Vitamin A: 400.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.159 mg
+Vitamin C: 93.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.98g
+Carbohydrate: 5.24g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 28
+Predicted Calories: 37.92
+Calorie Difference (Actual - Predicted): -9.92
+95% CI: [29.48, 46.36]
+
+----------------------------------------
+
+Name: Snacks, peanut butter, hard, granola bars
+Total Fat: 24.0g
+Vitamin A: 16.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.096 mg
+Vitamin C: 0.2 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 9.8g
+Carbohydrate: 62.3g
+Fiber: 2.9g
+Sugars: 0.0g
+Actual Calories: 483
+Predicted Calories: 492.54
+Calorie Difference (Actual - Predicted): -9.54
+95% CI: [484.11, 500.98]
+
+----------------------------------------
+
+Name: Fish, eggs (Alaska Native), whitefish
+Total Fat: 2.9g
+Vitamin A: 305.0 IU
+Vitamin B12: 56.4 µg
+Vitamin B6: 0.159 mg
+Vitamin C: 12.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 2.68 mg
+Protein: 14.66g
+Carbohydrate: 4.89g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 104
+Predicted Calories: 113.53
+Calorie Difference (Actual - Predicted): -9.53
+95% CI: [105.09, 121.97]
+
+----------------------------------------
+
+Name: Cookies, sugar free, dry mix, brownies
+Total Fat: 13.0g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.008 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.9g
+Carbohydrate: 80.4g
+Fiber: 4.2g
+Sugars: 0.0g
+Actual Calories: 426
+Predicted Calories: 435.51
+Calorie Difference (Actual - Predicted): -9.51
+95% CI: [427.07, 443.95]
+
+----------------------------------------
+
+Name: Seeds, roasted and toasted, whole, sesame seeds
+Total Fat: 48.0g
+Vitamin A: 9.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.802 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 16.96g
+Carbohydrate: 25.74g
+Fiber: 14.0g
+Sugars: 0.0g
+Actual Calories: 565
+Predicted Calories: 574.50
+Calorie Difference (Actual - Predicted): -9.50
+95% CI: [566.06, 582.94]
+
+----------------------------------------
+
+Name: Snacks, chocolate chip, hard, granola bars
+Total Fat: 16.0g
+Vitamin A: 42.0 IU
+Vitamin B12: 0.01 µg
+Vitamin B6: 0.058 mg
+Vitamin C: 0.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.3g
+Carbohydrate: 72.1g
+Fiber: 4.4g
+Sugars: 0.0g
+Actual Calories: 438
+Predicted Calories: 447.49
+Calorie Difference (Actual - Predicted): -9.49
+95% CI: [439.05, 455.93]
+
+----------------------------------------
+
+Name: Cowpeas, with salt, drained, boiled, cooked, young pods with seeds
+Total Fat: 0.3g
+Vitamin A: 1400.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.123 mg
+Vitamin C: 17.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.6g
+Carbohydrate: 7.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 34
+Predicted Calories: 43.35
+Calorie Difference (Actual - Predicted): -9.35
+95% CI: [34.91, 51.79]
+
+----------------------------------------
+
+Name: Cowpeas, without salt, drained, boiled, cooked, young pods with seeds
+Total Fat: 0.3g
+Vitamin A: 1400.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.123 mg
+Vitamin C: 17.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 2.6g
+Carbohydrate: 7.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 34
+Predicted Calories: 43.35
+Calorie Difference (Actual - Predicted): -9.35
+95% CI: [34.91, 51.79]
+
+----------------------------------------
+
+Name: Pumpkin leaves, raw
+Total Fat: 0.4g
+Vitamin A: 1942.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.207 mg
+Vitamin C: 11.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.15g
+Carbohydrate: 2.33g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 19
+Predicted Calories: 28.20
+Calorie Difference (Actual - Predicted): -9.20
+95% CI: [19.76, 36.64]
+
+----------------------------------------
+
+Name: Winged beans, with salt, boiled, cooked, mature seeds
+Total Fat: 5.8g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.047 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 10.62g
+Carbohydrate: 14.94g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 147
+Predicted Calories: 156.16
+Calorie Difference (Actual - Predicted): -9.16
+95% CI: [147.72, 164.60]
+
+----------------------------------------
+
+Name: Winged beans, without salt, boiled, cooked, mature seeds
+Total Fat: 5.8g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.047 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 10.62g
+Carbohydrate: 14.94g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 147
+Predicted Calories: 156.16
+Calorie Difference (Actual - Predicted): -9.16
+95% CI: [147.72, 164.60]
+
+----------------------------------------
+
+Name: Corn, solids and liquids, regular pack, whole kernel, canned, white, sweet
+Total Fat: 0.5g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.037 mg
+Vitamin C: 5.5 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 1.95g
+Carbohydrate: 15.41g
+Fiber: 1.7g
+Sugars: 0.0g
+Actual Calories: 64
+Predicted Calories: 73.14
+Calorie Difference (Actual - Predicted): -9.14
+95% CI: [64.70, 81.58]
+
+----------------------------------------
+
+Name: Lamb, raw, kidney, imported, New Zealand
+Total Fat: 2.5g
+Vitamin A: 204.0 IU
+Vitamin B12: 50.37 µg
+Vitamin B6: 0.173 mg
+Vitamin C: 0.0 mg
+Vitamin D: 5.0 IU
+Vitamin E: 0.42 mg
+Protein: 15.21g
+Carbohydrate: 0.03g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 84
+Predicted Calories: 93.07
+Calorie Difference (Actual - Predicted): -9.07
+95% CI: [84.63, 101.51]
+
+----------------------------------------
+
+Name: Lupins, with salt, boiled, cooked, mature seeds
+Total Fat: 2.9g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.009 mg
+Vitamin C: 1.1 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 15.57g
+Carbohydrate: 9.29g
+Fiber: 2.8g
+Sugars: 0.0g
+Actual Calories: 116
+Predicted Calories: 125.00
+Calorie Difference (Actual - Predicted): -9.00
+95% CI: [116.56, 133.44]
+
+----------------------------------------
+
+Name: Chicken, roasted, cooked, with added solution, meat and skin, thigh, dark meat
+Total Fat: 14.0g
+Vitamin A: 56.0 IU
+Vitamin B12: 0.41 µg
+Vitamin B6: 0.394 mg
+Vitamin C: 0.0 mg
+Vitamin D: 14.0 IU
+Vitamin E: 0.38 mg
+Protein: 23.47g
+Carbohydrate: 0.09g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 214
+Predicted Calories: 222.90
+Calorie Difference (Actual - Predicted): -8.90
+95% CI: [214.46, 231.34]
+
+----------------------------------------
+
+Name: Caribou, dried (Alaska Native), shoulder meat
+Total Fat: 3.7g
+Vitamin A: 37.0 IU
+Vitamin B12: 15.1 µg
+Vitamin B6: 0.499 mg
+Vitamin C: 0.0 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.07 mg
+Protein: 59.38g
+Carbohydrate: 0.0g
+Fiber: 0.0g
+Sugars: 0.0g
+Actual Calories: 271
+Predicted Calories: 279.89
+Calorie Difference (Actual - Predicted): -8.89
+95% CI: [271.46, 288.33]
+
+----------------------------------------
+
+Name: Mushrooms, microwaved, white
+Total Fat: 0.5g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.049 mg
+Vitamin C: 0.0 mg
+Vitamin D: 11.0 IU
+Vitamin E: 0.0 mg
+Protein: 3.91g
+Carbohydrate: 6.04g
+Fiber: 2.5g
+Sugars: 0.0g
+Actual Calories: 35
+Predicted Calories: 43.83
+Calorie Difference (Actual - Predicted): -8.83
+95% CI: [35.39, 52.27]
+
+----------------------------------------
+
+Name: Olives, canned (small-extra large), ripe
+Total Fat: 11.0g
+Vitamin A: 403.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.009 mg
+Vitamin C: 0.9 mg
+Vitamin D: 0.0 IU
+Vitamin E: 1.65 mg
+Protein: 0.84g
+Carbohydrate: 6.26g
+Fiber: 3.2g
+Sugars: 0.0g
+Actual Calories: 115
+Predicted Calories: 123.79
+Calorie Difference (Actual - Predicted): -8.79
+95% CI: [115.35, 132.23]
+
+----------------------------------------
+
+Name: Snacks, made with olestra, fat-free, potato chips
+Total Fat: 0.7g
+Vitamin A: 0.0 IU
+Vitamin B12: 0.0 µg
+Vitamin B6: 0.158 mg
+Vitamin C: 28.3 mg
+Vitamin D: 0.0 IU
+Vitamin E: 0.0 mg
+Protein: 7.74g
+Carbohydrate: 65.0g
+Fiber: 6.8g
+Sugars: 0.0g
+Actual Calories: 274
+Predicted Calories: 282.51
+Calorie Difference (Actual - Predicted): -8.51
+95% CI: [274.07, 290.95]
+
+----------------------------------------
+
