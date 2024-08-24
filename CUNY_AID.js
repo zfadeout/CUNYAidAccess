@@ -39,31 +39,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Covenant House New York',
-              address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
+              name: 'Grand Central Neighborhood',
+              address: '120 E 32nd St, New York, NY 10016',
+              phone: '212-883-0680',
+              distance: '0.55 Miles Away',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
+              name: 'Main chance',
+              address: '120 E. 32nd Street; New York, NY 10016',
+              phone: '212-833-0680',
+              distance: '0.57 Miles Away',
+              recommended: 'No'
             },
             {
-              name: 'Win NYC',
-              address: '115 E 31st St, New York, NY 10016',
-              phone: '212-695-6000',
-              distance: '1.0 mi',
+              name: '30th Street Mens Shelter Health Center',
+              address: '400 E 30th St, New York, NY 10016',
+              phone: '212-359-2820',
+              distance: '0.77 Miles Away',
+              recommended: 'No'
+            },
+            {
+              name: 'Bowery Residents Committee',
+              address: '131 W 25th St, New York, NY 10001',
+              phone: '212-803-5700',
+              distance: '0.97 Miles Away',
               recommended: 'No'
             }
           ]
@@ -165,29 +165,29 @@ document.addEventListener('DOMContentLoaded', () => {
             {
               name: 'Ali Forney Center',
               address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
+              phone: '212-206-0574',
+              distance: '0.3 Miles Away',
               recommended: 'Yes'
             },
             {
-              name: 'Win NYC',
-              address: '115 E 31st St, New York, NY 10016',
-              phone: '212-695-6000',
-              distance: '1.2 mi',
+              name: 'Breaking Ground',
+              address: '505 Eighth Avenue, 5th FloorNew York, NY 10018',
+              phone: '212-389-9300',
+              distance: '0.45 Miles Away',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
+              name: 'Covenant House New York',
+              address: '460 W 41st St, New York, NY 10036',
+              phone: '212-613-0300',
+              distance: '0.66 Miles Away',
+              recommended: 'No'
             },
             {
-              name: 'Shelter of Hope',
-              address: '88 3rd Ave, New York, NY 10003',
+              name: 'Olivieri',
+              address: '257 West 30th Street; New York, NY 10001',
               phone: '212-213-6070',
-              distance: '1.8 mi',
+              distance: '0.83 Miles Away',
               recommended: 'No'
             }
           ]
@@ -287,31 +287,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Covenant House New York',
-              address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
+              name: 'Borden Avenue Veterans Residence',
+              address: '21-10 Borden Ave, Long Island City, NY 11101',
+              phone: '718-784-5690',
+              distance: '0.95 Miles Away',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
+              name: 'BRC',
+              address: '146 Clay St, Brooklyn, NY 11222',
+              phone: '212-613-0300',
+              distance: '1.4 Miles Away',
+              recommended: 'No'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '1.8 mi',
+              name: 'Fairfield Inn (North Star)',
+              address: '52-34 Van Dam St, Long Island City, NY 11101',
+              phone: '212-226-6214',
+              distance: '1.4 Miles Away',
+              recommended: 'No'
+            },
+            {
+              name: 'Sweet Home',
+              address: '3805 Hunters Point Ave, Long Island City, NY 11101',
+              phone: '929-244-1520',
+              distance: '1.8 Miles Away',
               recommended: 'No'
             }
           ]
@@ -411,31 +411,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Covenant House New York',
-              address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
+              name: 'Breaking Grounds Safe Haven',
+              address: '781 Clarkson Ave, Brooklyn, NY 11203',
+              phone: '718-360-8000',
+              distance: '3.3 Miles Away',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
+              name: 'Armory Mens Shelter',
+              address: '1322 Bedford Ave, Brooklyn, NY 11216',
+              phone: '718-636-3908',
+              distance: '5.3 Miles Away',
+              recommended: 'No'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '1.8 mi',
+              name: 'Ready Willing and Able',
+              address: '520 Gates Ave, Brooklyn, NY 11216',
+              phone: '718-628-3223',
+              distance: '6.2 Miles Away',
+              recommended: 'No'
+            },
+            {
+              name: 'CAMBA The Gathering Place',
+              address: '2402 Atlantic Ave, Brooklyn, NY 11233',
+              phone: '718-385-8726',
+              distance: '1.8 Miles Away',
               recommended: 'No'
             }
           ]
@@ -535,31 +535,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
+              name: 'Samaritan Village',
+              address: '225 E 53rd St, New York, NY 10022',
+              phone: '',
+              distance: '1.2 Miles Away',
+              recommended: 'No'
+            },
+            {
+              name: 'Lalitamba Saranam',
+              address: 'PO Box 131 New York, NY 10024',
+              phone: '212-873-0140',
+              distance: '2.2 Miles Away',
+              recommended: 'No'
+            },
+            {
               name: 'Ali Forney Center',
               address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
+              phone: '212-206-0574',
+              distance: '2.7 Miles Away',
               recommended: 'Yes'
             },
             {
               name: 'Covenant House New York',
               address: '460 W 41st St, New York, NY 10036',
               phone: '212-613-0300',
-              distance: '1.2 mi',
-              recommended: 'No'
-            },
-            {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '1.8 mi',
+              distance: '2.8 Miles Away',
               recommended: 'No'
             }
           ]
@@ -659,31 +659,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Homeless Outreach Program',
-              address: '122-02 82nd Ave, Kew Gardens, NY 11415',
-              phone: '718-830-0973',
-              distance: '1.5 mi',
+              name: 'Safe Space',
+              address: '89-74 162nd St, Queens, NY 11432',
+              phone: '718-526-2400',
+              distance: '4.0 Miles Away',
               recommended: 'Yes'
             },
             {
-              name: 'NYC Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '5.5 mi',
+              name: 'Restfull Nights Organization',
+              address: '106-38 150th St, South Jamaica, NY 11435',
+              phone: '718-954-5744',
+              distance: '4.9 Miles Away',
               recommended: 'No'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '6.0 mi',
-              recommended: 'Yes'
+              name: 'The Landing Family Shelter',
+              address: '94-00 Ditmars Blvd, East Elmhurst, NY 11369',
+              phone: '718-226-0414',
+              distance: '5.9 Miles Away',
+              recommended: 'No'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '6.3 mi',
+              name: 'Sweet Home',
+              address: '3805 Hunters Point Ave, Long Island City, NY 11101',
+              phone: '929-244-1520',
+              distance: '9.1 Miles Away',
               recommended: 'No'
             }
           ]
@@ -783,31 +783,72 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.8 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Covenant House New York',
-              address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
+              name: 'Armory Mens Shelter',
+              address: '1322 Bedford Ave, Brooklyn, NY 11216',
+              phone: '718-636-3908',
+              distance: '1.3 Miles Away',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
+              name: 'Breaking Grounds Safe Haven',
+              address: '781 Clarkson Ave, Brooklyn, NY 11203',
+              phone: '718-360-8000',
+              distance: '2.3 Miles Away',
+              recommended: 'No'
+            },
+            {
+              name: 'Ready Willing and Able',
+              address: '520 Gates Ave, Brooklyn, NY 11216',
+              phone: '718-628-3223',
+              distance: '2.5 Miles Away',
+              recommended: 'Yes'
+            },
+            {
+              name: 'Providence House',
+              address: '703 Lexington Ave, Brooklyn, NY 11221',
+              phone: '718-455-0197',
+              distance: '3.3 Miles Away',
+              recommended: 'No'
+            }
+           ]
+          },
+        'cuny-King': {
+          'food': [
+            {
+              name: 'Food Bank for New York City',
+              address: '39 Broadway, New York, NY 10006',
+              phone: '212-566-7855',
+              distance: '1.0 mi',
+              recommended: 'Yes'
+            },
+            {
+              name: 'City Harvest',
+              address: '6 E 32nd St, New York, NY 10016',
+              phone: '212-229-8227',
+              distance: '1.5 mi',
+              recommended: 'No'
+            },
+            {
+              name: 'The Bowery Mission',
+              address: '227 Bowery, New York, NY 10002',
+              phone: '212-674-3456',
               distance: '2.0 mi',
               recommended: 'Yes'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '2.2 mi',
+              name: 'Holy Apostles Soup Kitchen',
+              address: '296 9th Ave, New York, NY 10001',
+              phone: '212-924-0173',
+              distance: '1.8 mi',
+              recommended: 'No'
+            }
+          ],
+          'shelter': [
+            {
+              name: 'Breaking Grounds Safe Haven',
+              address: '781 Clarkson Ave, Brooklyn, NY 11203',
+              phone: '718-360-8000',
+              distance: '8.7 Miles Away',
               recommended: 'No'
             }
           ]
