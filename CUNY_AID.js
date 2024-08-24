@@ -78,18 +78,18 @@ document.addEventListener('DOMContentLoaded', () => {
               recommended: 'Yes'
             },
             {
-              name: 'St. Peter’s Soup Kitchen',
-              address: '53 St. Marks Pl, Staten Island, NY 10301',
-              phone: '718-447-3500',
-              distance: '2.0 mi',
-              recommended: 'No'
-            },
-            {
               name: 'Richmond Senior Center',
               address: '129 Stuyvesant Pl, Staten Island, NY 10301',
               phone: '718-720-2600',
               distance: '1.8 mi',
               recommended: 'Yes'
+            },
+            {
+              name: 'St. Peter’s Soup Kitchen',
+              address: '53 St. Marks Pl, Staten Island, NY 10301',
+              phone: '718-447-3500',
+              distance: '2.0 mi',
+              recommended: 'No'
             },
             {
               name: 'Project Hospitality',
@@ -101,31 +101,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Community Health Center',
-              address: '215 Bay St, Staten Island, NY 10301',
-              phone: '718-448-4440',
-              distance: '1.0 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Safe Haven',
-              address: '111 W 5th St, Staten Island, NY 10301',
-              phone: '718-420-3030',
-              distance: '1.2 mi',
+              name: 'A Shelter',
+              address: '2 Dehart Ave, Staten Island, NY 10303',
+              phone: 'None',
+              distance: '3.9 mi',
               recommended: 'No'
             },
             {
-              name: 'Homeless Outreach Program',
-              address: '432 Richmond Ave, Staten Island, NY 10312',
-              phone: '718-356-1200',
-              distance: '2.3 mi',
+              name: 'Project Hospitality',
+              address: '100 Park Ave, Staten Island, NY 10302',
+              phone: '718-448-1544',
+              distance: '4.0 mi',
               recommended: 'Yes'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '5.0 mi',
+              name: 'Urban Resource Institute',
+              address: '75 Broad St, New York, NY 10004',
+              phone: '646-588-0030',
+              distance: '16 mi',
+              recommended: 'No'
+            },
+            {
+              name: 'The Bowery Mission - Tribeca Campus',
+              address: '90 Lafayette St, New York, NY 10013',
+              phone: '212-226-6214',
+              distance: '18 mi',
               recommended: 'No'
             }
           ]
@@ -209,47 +209,47 @@ document.addEventListener('DOMContentLoaded', () => {
               recommended: 'No'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
               name: 'Holy Apostles Soup Kitchen',
               address: '296 9th Ave, New York, NY 10001',
               phone: '212-924-0173',
               distance: '1.4 mi',
               recommended: 'No'
+            },
+            {
+              name: 'The Bowery Mission',
+              address: '227 Bowery, New York, NY 10002',
+              phone: '212-674-3456',
+              distance: '1.5 mi',
+              recommended: 'Yes'
             }
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
+              name: 'Safe Horizon Streetwork Harlem',
+              address: '151 E 151st St, Bronx, NY 10451',
+              phone: '212-695-2220',
+              distance: '.44 mi',
               recommended: 'Yes'
             },
             {
-              name: 'Covenant House New York',
+              name: 'PATH DHS Assessment Shelter',
               address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
+              phone: '718-503-6400',
+              distance: '2.1 mi',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
+              name: 'Cardinal McCloskey Services',
+              address: '529 Courtlandt Ave, Bronx, NY 10451',
+              phone: '718-993-7700',
+              distance: '2.2 mi',
               recommended: 'Yes'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '1.8 mi',
+              name: 'Trinity Place Shelter',
+              address: '164 W 100th St, New York, NY 10025',
+              phone: '646-580-7045',
+              distance: '2.4 mi',
               recommended: 'No'
             }
           ]
@@ -333,47 +333,47 @@ document.addEventListener('DOMContentLoaded', () => {
               recommended: 'No'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
               name: 'Holy Apostles Soup Kitchen',
               address: '296 9th Ave, New York, NY 10001',
               phone: '212-924-0173',
               distance: '1.4 mi',
               recommended: 'No'
+            },
+            {
+              name: 'The Bowery Mission',
+              address: '227 Bowery, New York, NY 10002',
+              phone: '212-674-3456',
+              distance: '1.5 mi',
+              recommended: 'Yes'
             }
           ],
           'shelter': [
             {
               name: 'Ali Forney Center',
               address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
+              phone: '212-206-0574',
+              distance: '.74 mi',
               recommended: 'Yes'
             },
             {
-              name: 'Covenant House New York',
-              address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
+              name: 'Breaking Ground',
+              address: '505 Eighth Avenue, 5th FloorNew York, NY 10018',
+              phone: '212-389-9300',
+              distance: '.78 mi',
               recommended: 'No'
             },
             {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
+              name: 'Main chance',
+              address: '120 E. 32nd Street; New York, NY 10016',
+              phone: '212-833-0680',
+              distance: '.89 mi',
+              recommended: 'No'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '1.8 mi',
+              name: 'Grand Central Neighborhood',
+              address: '120 E 32nd St, New York, NY 10016',
+              phone: '212-883-0680',
+              distance: '.9 mi',
               recommended: 'No'
             }
           ]
@@ -457,47 +457,47 @@ document.addEventListener('DOMContentLoaded', () => {
               recommended: 'No'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
               name: 'Holy Apostles Soup Kitchen',
               address: '296 9th Ave, New York, NY 10001',
               phone: '212-924-0173',
               distance: '1.4 mi',
               recommended: 'No'
+            },
+            {
+              name: 'The Bowery Mission',
+              address: '227 Bowery, New York, NY 10002',
+              phone: '212-674-3456',
+              distance: '1.5 mi',
+              recommended: 'Yes'
             }
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
-              name: 'Covenant House New York',
-              address: '460 W 41st St, New York, NY 10036',
-              phone: '212-613-0300',
-              distance: '1.2 mi',
-              recommended: 'No'
-            },
-            {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
               name: 'Safe Horizon Streetwork Harlem',
               address: '209 W 125th St, New York, NY 10027',
               phone: '212-695-2220',
+              distance: '1.2 mi',
+              recommended: 'Yes'
+            },
+            {
+              name: 'PATH DHS Assessment Shelter',
+              address: '151 E 151st St, Bronx, NY 10451',
+              phone: '718-503-6400',
               distance: '1.8 mi',
+              recommended: 'No'
+            },
+            {
+              name: 'Cardinal McCloskey Services',
+              address: '529 Courtlandt Ave, Bronx, NY 10451',
+              phone: '718-993-7700',
+              distance: '2.5 mi',
+              recommended: 'Yes'
+            },
+            {
+              name: 'Siena House',
+              address: '85 W 168th St, Bronx, NY 10452',
+              phone: '718-293-2390',
+              distance: '2.9 mi',
               recommended: 'No'
             }
           ]
@@ -581,47 +581,47 @@ document.addEventListener('DOMContentLoaded', () => {
               recommended: 'No'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
               name: 'Holy Apostles Soup Kitchen',
               address: '296 9th Ave, New York, NY 10001',
               phone: '212-924-0173',
               distance: '1.4 mi',
               recommended: 'No'
+            },
+            {
+              name: 'The Bowery Mission',
+              address: '227 Bowery, New York, NY 10002',
+              phone: '212-674-3456',
+              distance: '1.5 mi',
+              recommended: 'Yes'
             }
           ],
           'shelter': [
             {
-              name: 'Ali Forney Center',
-              address: '307 W 38th St, New York, NY 10018',
-              phone: '212-290-0080',
-              distance: '1.5 mi',
-              recommended: 'Yes'
-            },
-            {
               name: 'Covenant House New York',
               address: '460 W 41st St, New York, NY 10036',
               phone: '212-613-0300',
-              distance: '1.2 mi',
-              recommended: 'No'
-            },
-            {
-              name: 'New York City Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
               distance: '1.5 mi',
               recommended: 'Yes'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
+              name: 'Ali Forney Center',
+              address: '307 W 38th St, New York, NY 10018',
+              phone: '212-206-0574',
               distance: '1.8 mi',
+              recommended: 'Yes'
+            },
+            {
+              name: 'Breaking Ground',
+              address: '505 Eighth Avenue, 5th FloorNew York, NY 10018',
+              phone: '212-389-9300',
+              distance: '2.0 mi',
+              recommended: 'No'
+            },
+            {
+              name: 'Lalitamba Saranam',
+              address: 'PO Box 131 New York, NY 10024',
+              phone: '212-873-0140',
+              distance: '2.1 mi',
               recommended: 'No'
             }
           ]
@@ -721,31 +721,31 @@ document.addEventListener('DOMContentLoaded', () => {
           ],
           'shelter': [
             {
-              name: 'Homeless Outreach Program',
-              address: '122-02 82nd Ave, Kew Gardens, NY 11415',
-              phone: '718-830-0973',
-              distance: '1.5 mi',
+              name: 'Safe Space',
+              address: '89-74 162nd St, Queens, NY 11432',
+              phone: '718-526-2400',
+              distance: '.45 mi',
               recommended: 'Yes'
             },
             {
-              name: 'NYC Rescue Mission',
-              address: '90 Lafayette St, New York, NY 10013',
-              phone: '212-226-6214',
-              distance: '5.5 mi',
+              name: 'Restfull Nights Organization',
+              address: '106-38 150th St, South Jamaica, NY 11435',
+              phone: '718-954-5744',
+              distance: '.8 mi',
               recommended: 'No'
             },
             {
-              name: 'The Bowery Mission',
-              address: '227 Bowery, New York, NY 10002',
-              phone: '212-674-3456',
-              distance: '5.8 mi',
-              recommended: 'Yes'
+              name: 'Homes For the Homeless',
+              address: '17515 Rockaway Blvd, Jamaica, NY 11434',
+              phone: '718-244-0670',
+              distance: '5.3 mi',
+              recommended: 'No'
             },
             {
-              name: 'Safe Horizon Streetwork Harlem',
-              address: '209 W 125th St, New York, NY 10027',
-              phone: '212-695-2220',
-              distance: '6.0 mi',
+              name: 'HELP Womens Shelter',
+              address: '104-152 Williams Ave, Brooklyn, NY 11207',
+              phone: '718-483-7700',
+              distance: '9.3 mi',
               recommended: 'No'
             }
           ]
