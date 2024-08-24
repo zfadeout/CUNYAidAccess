@@ -29,9 +29,11 @@ Full_Boroughs_Dataset = Full_Boroughs_Dataset.sort_values(by='mi')
 def iterating_through_col(college):
     df_baruch = college_df[college_df['College Name'] == college]
     gr1 = df_baruch[['College Name', 'Latitude', 'Longitude']].reset_index(drop=True)
-    # Repeat the first row 50 times
+    # repeat first row 49 times for each shelter to calculate for [mi] row
     if not gr1.empty:
         gr1 = pd.concat([gr1.iloc[[0]]] * 49, ignore_index=True)
+
+    # create new column named [mi] with distance in miles calculated using haversine function
     gr1['mi'] = Full_Boroughs_Dataset.apply(
         lambda row: haversine(gr1['Latitude'].iloc[0], gr1['Longitude'].iloc[0], row['Latitude'], row['Longitude']), axis=1
     )
@@ -42,9 +44,10 @@ def iterating_through_col(college):
     # Concatenate with All_Shelter_Names to include shelter information
     final_df = pd.concat([gr1, All_Shelter_Names[['Center Name', 'Phone Number', 'CUNY Recommended', 'Address', 'Borough']]], axis=1)
 
-    
+    # SORT VALUES BY mi COLUMN
     final_df = final_df.sort_values(by='mi')
-    
+
+    # TAKING TOP 5 CLOSEST SHELTERS
     return final_df[0:5]
 
 print(iterating_through_col('Baruch College'))
@@ -74,8 +77,14 @@ Bolleges = {'Baruch College' : (40.740471862767045, -73.98320075070929),
     'Queensborough Community College' : (40.75541808820755, -73.75739998840511),
     'York College' : (40.70104134897624, -73.79610986464256)}
 
+# LINE OF CODE FOR FORMATING TXT FILE
+# for college in list(Bolleges.keys()):
+#     print_shelter_details(iterating_through_col(college), college)
+
+# LINE OF CODE FOR CREATING INDIVIDUAL CSV FILES FOR EACH COLLEGE
 for college in list(Bolleges.keys()):
-    print_shelter_details(iterating_through_col(college), college)
+    df = iterating_through_col(college)
+    df.to_csv(f'Help From {college}.csv')
 
 
     
